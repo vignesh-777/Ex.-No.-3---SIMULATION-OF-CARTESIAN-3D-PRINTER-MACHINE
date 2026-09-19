@@ -60,7 +60,7 @@
 ![Screenshot (112)](https://github.com/user-attachments/assets/202b78a3-e961-4da6-96e6-f6ab0d8518b5)
 
 
-### Name: SHRIRAM VR
-### Register Number:212224040314
+### Name: Vignesh R
+### Register Number:212223240177
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
